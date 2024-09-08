@@ -1,0 +1,28 @@
+body{
+  background-color:#131415;
+  color: whitesmoke;
+}
+.profile{
+  width: 70px ;
+  height: 70px;
+  border: 2px solid black;
+  border-radius: 50%;
+}
+.container{
+ 
+    width: 400px;
+    height: 300px;
+align-items: center;
+}
+.Advocate_list{
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+}
+.wrapper{
+  max-width: 1200px;
+}
+.container-adv{
+  flex-direction: column;
+  top: 50%;
+}
